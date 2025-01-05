@@ -25,9 +25,15 @@ The files in this repository are ready for use. Simply click on the file, and yo
 [01-Supplementary-Figures-Sequences.docx](https://github.com/faguil/Oyster-secretory-transcriptomic-response-ocean-acidification/blob/main/01-Supplementary-Figures-Tables.docx) contains supplementary figures tables used in this study.
 
 - **Supplementary Figure 1.** Toloudine blue-stained section through the mantle tissue of *C. gigas* kept under nornal pH (8.0 ± 0.2) condition. 
-- **Figure S2.** Maximum Likelihood (ML) phylogenetic tree of molluscan tyrosinase proteins obtained by RAxMLGUI v1.3 under the PROTGAMMAWAG substitution model.
-- **Figure S3.** Bayesian Inference (BI) phylogenetic tree of molluscan tyrosinase proteins obtained by MrBayes v3.2 under the WAG + G substitution model.
-- **Figure S4.** Sequence alignments of hypothetical proteins that belong to the microsynteny block between *C. gigas* scaffold 867 and *P. fucata* scaffolds 13287, 1286 and 19072.
-- **Figure S5.** Quantitative PCR expression profiles of tyrosinase genes across the mantle tissue in *P. maxima* and *P. margaritifera*.
-- **Supplementary dataset file S1.** Tyrosinase protein sequences used in this study.
-- **Supplementary dataset file S2.** List of *Pinctada margaritifera* reference gene sequences used for qPCR analysis.
+- **Supplementary Figure 2.** Hematoxylin and Eosin-stained sections through the mantle tissue of *C. gigas* kept under low pH (7.6 ± 0.2) condition.
+- **Supplementary Figure 3.** Toluidine blue-stained sections through the mantle tissue of *C. gigas* kept under low pH (7.6 ± 0.2) condition.
+- **Supplementary Figure 4.** Scatterplot of biological replicates. Points correspond to genes with non-zero counts in at least one RNA-Seq replicate.
+- **Supplementary Figure 5.** The volcano plot shows significantly differentiall expressed genes in mantle cells of oysters kept under normal (8.0 ± 0.2) and low pH (7.6 ± 0.2) conditions.
+- **Supplementary Figure 6.** Gene Ontology (GO) classification of up-regulated genes in mantle cells exposed to ocean acidification conditions (7.6 ± 0.2).
+- **Supplementary Figure 7.** Gene Ontogolo (GO) classification of down-regulated genes in mantle cells exposed to ocean acidification conditions (7.6 ± 0.2).
+- **Supplementary Figure 8.** KEGG classification of differentially expressed genes in mantle cells exposed to ocean acidification conditions (8.0 ± 0.2 and 7.6 ± 0.2).
+- **Supplementary Table 1.** Per sample mapping summary for adult mantle RNA-Seq data.
+- **Supplementary Table 2.** KEGG annotation of differentially expressed genes in the mantle cells of oysters kept under normal (8.0 ± 0.2) and low (7.6 ± 0.2) pH conditions.
+- **Supplementary Table 3.** Genes differentially expressed (and encoding secreted proteins) in mantle cells of oysters kept under normal (8.0 ± 0.2) and low (7.6 ± 0.2) pH conditions.
+- **Supplementary Table 4.** Gene Ontology terms (Level 2) of differentially expressed genes encoding secreted proteins in the mantle cells of oysters kept under normal (8.0 ± 0.2) and low (7.6 ± 0.2) pH conditions.
+- **Supplementary Table 5.** Gene Ontology terms (Level 3) of differentially expressed genes encoding secreted proteins in the mantle cells of oysters kept under normal (8.0 ± 0.2) and low (7.6 ± 0.2) pH conditions.
