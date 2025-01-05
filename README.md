@@ -22,7 +22,7 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 ## Index of data file contents
 
-[01-Supplementary-Figures-Sequences.docx](https://github.com/faguil/Tyrosinase-Evolution-Molluscs/blob/main/01-Supplementary-Figures-Sequences.docx) contains supplementary figures tables used in this study.
+[01-Supplementary-Figures-Sequences.docx](https://github.com/faguil/Oyster-secretory-transcriptomic-response-ocean-acidification/blob/main/01-Supplementary-Figures-Tables.docx) contains supplementary figures tables used in this study.
 
 - **Supplementary Figure 1.** Toloudine blue-stained section through the mantle tissue of *C. gigas* kept under nornal pH (8.0 ± 0.2) condition. 
 - **Figure S2.** Maximum Likelihood (ML) phylogenetic tree of molluscan tyrosinase proteins obtained by RAxMLGUI v1.3 under the PROTGAMMAWAG substitution model.
